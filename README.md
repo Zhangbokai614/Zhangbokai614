@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhangbokai614&include_all_commits=true&&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhangbokai614)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=Zhangbokai614&include_all_commits=true&&count_private=true&count_private=true&theme=react&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=225 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhangbokai614&theme=vue-dark" />
+</a>
 
 <!--
 **Zhangbokai614/Zhangbokai614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
