@@ -1,23 +1,43 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=Zhangbokai614&include_all_commits=true&&count_private=true&count_private=true&theme=react&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=225 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhangbokai614&theme=vue-dark" />
-</a>
 
-<!--
-**Zhangbokai614/Zhangbokai614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is ***Bokai Zhang***. I'm a Fullstack software engineer. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,flutter,tailwind,docker" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,c,python,js" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=codepen,electron,postman" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,mysql,redis,postgres" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+ My current status
+- :man_scientist: Trying to become a programming master.
+- :books: Have been studying hard.
+- :thinking: I am currently working as a backend developer.
+- :computer: Thinking, Coding, Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=Zhangbokai614&include_all_commits=true&&count_private=true&count_private=true&theme=react&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=225 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhangbokai614&theme=vue-dark" />
+  </a>
+</p>
+
+### &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my [yuque](https://www.yuque.com/pluto-).
