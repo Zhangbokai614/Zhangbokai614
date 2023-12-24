@@ -31,7 +31,7 @@ My name is ***Bokai Zhang***. I'm a Fullstack software engineer.
 
 ### &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my [Blog](https://zhangbokai614.github.io) & [Yuque](https://www.yuque.com/pluto-) & [Observable](https://observablehq.com/@zhangbokai614) & WeChat.
+Apart from coding, I also maintain a blog - you can find my articles on my [Blog](https://zhangbokai614.github.io) & [Yuque](https://www.yuque.com/pluto-) & [Observable](https://observablehq.com/@zhangbokai614?tab=profile&type=collections) & WeChat.
 
 <p align="center">
   <img src="https://github.com/Zhangbokai614/Zhangbokai614/assets/64344118/1dcd1777-718b-4cc9-bf30-3e2fc31ffdb0" />
